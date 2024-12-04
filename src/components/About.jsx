@@ -23,7 +23,7 @@ const About = () => {
             <div className="relative group">
               <div className="w-full h-[400px] bg-gray-200 rounded-lg overflow-hidden transform transition-transform duration-500 group-hover:scale-105">
                 <img 
-                  src="https://media.licdn.com/media/AAYQAQSOAAgAAQAAAAAAAB-zrMZEDXI2T62PSuT6kpB6qg.png" 
+                  src="blob:https://web.whatsapp.com/8b193530-3a6c-410b-96b5-961984c63281" 
                   alt="Abdou Aziz Diop"
                   className="w-full h-full object-cover transition-transform duration-500 group-hover:scale-110"
                 />
